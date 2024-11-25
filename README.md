@@ -71,7 +71,7 @@ Open your browser and navigate to `http://localhost:3000`.
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/0xmetaschool/TripPlannerGPT/blob/main/public/public/trip-planner-gpt-template-homepage.png?raw=true" alt="TriviaPlannerGPT homepage screenshot" style="width: 49%; border: 2px solid black;" />
+  <img src="https://github.com/0xmetaschool/TripPlannerGPT/blob/main/public/trip-planner-gpt-template-homepage.png?raw=true" alt="TriviaPlannerGPT homepage screenshot" style="width: 49%; border: 2px solid black;" />
   <img src="https://github.com/0xmetaschool/TripPlannerGPT/blob/main/public/trip-planner-gpt-template-popular-destination.png?raw=true" alt="TripPlannerGPT popular destination screenshot" style="width: 49%; border: 2px solid black;" />
 </div>
 <div style="display: flex; justify-content: space-between;">
