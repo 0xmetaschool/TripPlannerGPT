@@ -10,7 +10,6 @@ Built with Next.js and powered by OpenAI API, this template helps you build an A
 
 ## Features
 
-- Secure login with Gmail,facebook, github or email/password
 - Generate personalized travel itineraries including best hotels and meals using AI
 - Customize plans based on destination, duration, budget, and trip companions
 - Interactive Google map integration to explore recommended places
@@ -19,7 +18,7 @@ Built with Next.js and powered by OpenAI API, this template helps you build an A
 ## Technologies Used
 
 - Next.js and React for Frontend and Backend
-- OpenAI API with GPT-4o model for AI-Powered Features
+- OpenAI API with GPT models for AI-Powered Features
 - Clerk authentication for Authorization
 
 ## Use Cases
@@ -87,6 +86,7 @@ Open your browser and navigate to `http://localhost:3000`.
 3. View your AI-generated itinerary, complete with detailed daily plans
 4. Download to save your trip plans
 5. Use the interactive map to explore nearby attractions
+
 
 ## Contributing
 
