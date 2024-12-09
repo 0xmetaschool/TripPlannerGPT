@@ -41,12 +41,12 @@ git clone https://github.com/0xmetaschool/TripPlannerGPT.git
 cd TripPlannerGPT
 ```
 
-2. Install dependencies:
+3. Install dependencies:
 ```
 npm install
 ```
 
-3. Set up environment variables:
+4. Set up environment variables:
 
 Create an .env file in the root directory. Add the following variables:
 ```
@@ -61,7 +61,7 @@ OPENAI_API_KEY=
 NEXT_PUBLIC_PEXELS_API_KEY=
 ```
 
-4. Run the development server:
+5. Run the development server:
 ```
 npm run dev
 ```
